@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{D1616E7C-DB16-0B6B-7207-089917DD9EE7}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GameManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Area.cs">
     <Files>
-      <File FileName="Assets/GameManager.cs" Line="30" Column="70" />
-      <File FileName="../../../Unity - Projects/NineDice/Assets/script_Initiation.cs" Line="75" Column="18" />
-      <File FileName="Assets/Area.cs" Line="1" Column="1" />
+      <File FileName="Assets/Area.cs" Line="32" Column="39" />
+      <File FileName="Assets/GameManager.cs" Line="23" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
